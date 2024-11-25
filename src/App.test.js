@@ -3,6 +3,5 @@ import { render } from '@testing-library/react';
 import App from './App';
 
 it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
+  render(<App />); // This is the correct approach for testing with React Testing Library
 });

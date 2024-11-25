@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Hello, I'm Bernard Tampubolon. I'm a Junior Developer in mobile and web development. For web projects, i work with PHP, Codeigniter and React. On the mobile side, I utilize Swift for iOS app and React Native to create cross platform app.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "OCEAN",
+      "startDate": "2022",
+      "description": "The first fullstack project I have worked. I've learned many technologies such as React Native and Codeigniter. The application was made for recording employee attendance using mobile phone and the attendance data will be handled by backend services.  ",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-codeigniter-plain",
+          "name": "Codeigniter"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "Manpower Planning",
+      "startDate": "2023",
+      "description": "A fullstack project built for company manpower planning. I used HTML as frontend and Codeigniter as backend services. The application was made to help each department on planning their manpower assignment. ",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-codeigniter-plain",
+          "name": "Codeigniter"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "GRUN",
+      "startDate": "2024",
+      "description": "Application built on iOS to help beginner runner in their running habbit. This application combined music and heartbeat detected by apple watch to stabilze their running tempo. The application will give music based on their heartbeat while running",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-swift-plain",
+          "name": "Swift"
+        }
+      ]
+    },
+    {
+      "title": "Fylo-Ink",
+      "startDate": "2018",
+      "description": "Application on iOS made for 5-7 years old kids to refine their motoric skills. The application utilize machine learning and camera in the process. ",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-swift-original",
+          "name": "Swift"
+        },
+        {
+          "class": "devicon-swift-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Movemental",
+      "startDate": "2015",
+      "description": "A game that involved physical action as game mechanic. This project developed using unity as game engine and swift for game controller. The game use machine learning to detect certain movement as the game mechanic",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-swift-plain",
+          "name": "Swift"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Apple Developer Academy @ Infinite Learning",
+      "title": "Tech Intern",
+      "years": "02.2024 - 12.2024",
+      "mainTech": [
+        "Swift"
+      ],
+      "technologies": [
+        "REST API",
+        "SwiftData",
+        "CoreData",
+        "HealthKit",
+        "SwiftUI",
+        "Unity",
+        "C#"
+      ]
+    },
+    {
+      "company": "PT. Citra Tubindo tbk",
+      "title": "Programmer Intern",
+      "years": "09.2022 - 11.2023",
+      "mainTech": [
+        "Codeigniter"
+      ],
+      "technologies": [
+        "REST API",
+        "PHP",
+        "JavaScript",
+        "PostgreSQL",
+        "Bootstrap",
+        "HTML"
+      ]
+    }
+  ]
+}
